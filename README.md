@@ -40,7 +40,7 @@ An active API key is included in the source code.
 - Download files to a folder
 - Open files in and IDE of your choice (I used eclipse). Or navigate to folder in command line.
 - For command line: javac -cp .;json.jar neoObject.java neoTrackerGUI.java
-- Make sure to inlcude json.jar in your build path. It can be downloaded here: https://github.com/stleary/JSON-java
+- Make sure to inlcude json.jar in your build path. I have included this for download, but it can also be downloaded here: https://github.com/stleary/JSON-java
 - Run from the command line or in the IDE.
 - Input valid dates in format: YYYY-MM-DD  (Do not exceed a range of 7 days due to NEO API constraints).
 - Click "Submit"
