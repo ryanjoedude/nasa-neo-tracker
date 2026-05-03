@@ -1,4 +1,4 @@
-# nasa-neo-tracker
+# NASA NEO REST API Tracker for Risk and Proximity
 Application using NASA NEO REST API to display Risk and Proximity
 Author: Ryan J. Brady
 
