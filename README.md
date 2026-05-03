@@ -1,6 +1,5 @@
 # NASA NEO REST API Tracker for Risk and Proximity
-Application using NASA NEO REST API to display Risk and Proximity
-/nAuthor: Ryan J. Brady
+Application using NASA NEO REST API to display Risk and Proximity - Author: Ryan J. Brady
 
 ## Overview
 The NASA NEO Tracker is a Java Swing application that retrieves and displays Near-Earth Object (NEO) data from NASA’s public API. NEOs are comets and asteroids that come within 1.3 astronomical units of the sun. The program visualizes the 20 closest objects to Earth within a user-defined date range (maximum 7 days due to API constraints).
