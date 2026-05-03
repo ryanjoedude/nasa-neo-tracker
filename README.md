@@ -45,5 +45,5 @@ An active API key is included in the source code.
 - Run from the command line or in the IDE.
 - Input valid dates in format: YYYY-MM-DD  (Do not exceed a range of 7 days due to NEO API constraints).
 - Click "Submit"
-- I recommend running with date range: 2015-09-07 to 2015-09-08 in order to see full capabilities.
+  - NOTE: I recommend running with date range: 2015-09-07 to 2015-09-08 in order to see full capabilities.
 
