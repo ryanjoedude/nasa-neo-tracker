@@ -46,3 +46,26 @@ An active API key is included in the source code.
 - Click "Submit"
   - NOTE: I recommend running with date range: 2015-09-07 to 2015-09-08 in order to see full capabilities.
 
+## Extra Information
+
+The returned JSON Object Array looks like this:
+
+<img width="1512" height="1196" alt="image" src="https://github.com/user-attachments/assets/ade99496-c7bb-4dad-b3c2-6c385ab209d2" />
+
+Fields available from NASA NEO API:
+ - element_count
+ - near_earth_objects
+ - Date Methods
+ - Object
+ - absolute_magnitude_h
+ - close_approach_data
+ - close_approach_date
+ - epoch_date_close_approach
+ - miss_distance
+ - orbiting_body
+ - relative_velocity
+ - estimated_diameter
+ - is_potentially_hazardous_asteroid
+ - links
+ - nasa_jpl_url
+ - neo_reference_id
